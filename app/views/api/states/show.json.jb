@@ -1,0 +1,8 @@
+{
+  id: @state.id,
+  name: @state.name,
+  income: @state.income,
+  unemployed: @state.unemployed,
+  metro: @state.metro,
+  grads: @state.grads
+}

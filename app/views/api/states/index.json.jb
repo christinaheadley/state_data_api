@@ -1,0 +1,11 @@
+# @states.map do |state|
+#   name: @name,
+#   code: @code,
+#   income: @income,
+#   unemployed: @unemployed,
+#   metro: @metro,
+#   grads: @grads
+ 
+# end
+
+{states: @states}
